@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "ee-g9b",
+  "hostType": "tunnel",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": true
+}
